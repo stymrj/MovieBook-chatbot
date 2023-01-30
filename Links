@@ -1,0 +1,3 @@
+Cloud Console URL https://console.cloud.google.com/storage/browser/movie_ticket_booker
+
+gsutil URI gs://movie_ticket_booker
